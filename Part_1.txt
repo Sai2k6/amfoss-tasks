@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 aHR0cHM6Ly9naX
-=======
-aHR0cHM6Ly9naX
->>>>>>> 139b4ef (part 1 succesfull)
