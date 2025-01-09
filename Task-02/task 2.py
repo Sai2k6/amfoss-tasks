@@ -2,7 +2,7 @@ from PIL import Image
 import pytesseract
 
 
-image_path = "/home/sair/Pictures/Screenshots/Screenshot_20250107_132217.png"
+image_path = input("Enter Image path")
 image = Image.open(image_path)
 
 
