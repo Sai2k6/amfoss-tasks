@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Weather Assistant",
+  "version": "1.0",
+  "description": "Get real-time weather updates for any location.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
+}
